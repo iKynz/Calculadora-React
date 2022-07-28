@@ -1,4 +1,4 @@
-<h1> 🖩  Calculadora Feito em React </h1>
+<h1> 🖩  Calculadora Feita em React </h1>
 
 ## 📋 Sobre o Projeto
 
